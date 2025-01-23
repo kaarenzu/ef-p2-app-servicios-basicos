@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">app_registro_rb</string>
+    <string name="form_select_agua">Water</string>
+    <string name="titulo_inicio">List Task</string>
+    <string name="form_tipo_medidor">Meter Type:</string>
+    <string name="form_select_luz">Light</string>
+    <string name="form_select_gas">Gas</string>
+    <string name="btn_agregar_registro">Add Record</string>
+    <string name="titulo_agregar">Add Records</string>
+</resources>

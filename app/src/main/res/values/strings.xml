@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app_registro_rb</string>
+    <string name="form_select_agua">Agua</string>
+    <string name="form_tipo_medidor">Tipo de medidor:</string>
+    <string name="titulo_inicio">Listado de Tareas</string>
+    <string name="form_select_luz">Luz</string>
+    <string name="form_select_gas">Gas</string>
+    <string name="btn_agregar_registro">Agregar Registro</string>
+    <string name="titulo_agregar">Agregar Registros</string>
+</resources>
