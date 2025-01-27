@@ -129,7 +129,7 @@ fun BannerNav(
         },
         colors = TopAppBarDefaults.topAppBarColors(
             containerColor = MaterialTheme.colorScheme.primaryContainer,
-            titleContentColor = MaterialTheme.colorScheme.primary
+            titleContentColor = MaterialTheme.colorScheme.primaryContainer
         )
     )
 }
@@ -137,7 +137,6 @@ fun BannerNav(
 
 
 // Pagina de inicio y muestra de registros
-
 @Composable
 fun PageInicioUI(
     onButtonSettingsClicked:() -> Unit = {},
